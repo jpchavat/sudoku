@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+  text-align: center;
+  width: 100%;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+div{
+  width: 100%;
+  margin: auto;
+}
+input[type="text"].Basic  {
+	width:40px;
+	height:40px;
+	text-align:center;
+	font-size:20px;
+}
+input[type="text"].Given  {
+	color:#30F;
+}
+input[type="text"].Red  {
+	color:#F00;
+}
+input[type="text"].Odd  {
+  background-color: #dcdcdc;
+}
+input[type="text"].Even  {
+	background-color: #FFFFFF;
+}
+
+td.Top {
+	border-top: 2px solid black;
+}
+
+td.Bottom {
+	border-bottom: 2px solid black;
+}
+
+td.Right {
+	border-right: 2px solid black;
+}
+
+td.Left {
+	border-left: 2px solid black;
+}
+

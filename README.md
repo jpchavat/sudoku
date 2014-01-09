@@ -1,4 +1,0 @@
-sudoku
-======
-
-Javascript+PHP Sudoku

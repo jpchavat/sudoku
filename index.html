@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="UTF-8"/>
+<title>Sudoku</title>
+<link type="text/css" href="css/sudokuStyle.css" rel="stylesheet" />
+<link type="text/css" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" rel="stylesheet" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+<script type="text/javascript" src="js/Creator.js"></script>
+<script type="text/javascript" src="js/Validator.js"></script>
+<script>
+	$(document).ready(function() {
+		createTable();
+		assignGrid(createGrid());
+	});
+</script>
+</head>
+<body>
+    	<div id="SudGame"></div>
+</body>
+</html>
