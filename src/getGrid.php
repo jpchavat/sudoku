@@ -196,6 +196,7 @@ for($i=0;$i<$times;$i++){
 	***************************************************/	
 
 
+//TODO
 //Esto se saca al procesar la $matrixUsr a partir de la $matrixSol
 $matrixUsr = $matrixSol;
 
