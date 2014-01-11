@@ -1,7 +1,7 @@
 TO DO List:
 
-- Pasaje de código de función ramdomizeDigits de JS a PHP
-- Boton de pedido de nuevo tablero JS
+- [DONE]Pasaje de código de función ramdomizeDigits de JS a PHP
+- [Done] Boton de pedido de nuevo tablero JS
 - Tiempo de juego JS
 - Algoritmo de extracción de dígitos de solución generada PHP
 - Agregar opción de dificultad de solución 
