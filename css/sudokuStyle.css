@@ -16,6 +16,25 @@ div#Wrapper{
   text-align: center;
   display: table-cell;
 }
+div#slideLevel{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+  background: -moz-linear-gradient(left, green, yellow, red);
+  background: -webkit-linear-gradient(left, green, yellow, red);
+  background: -webkit-gradient(left, green, yellow, red);
+  background: -o-linear-background(left, green, yellow, red);
+  background: -ms-linear-background(left, green, yellow, red);
+  background: linear-background(left, green, yellow, red);
+}
+div#labelLevel{
+  width: 180px;
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 5px;
+  margin-right: 15px;
+  text-align: left;
+}
 table{
   margin: auto;
 }
